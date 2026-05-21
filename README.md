@@ -148,12 +148,3 @@ python3 aiops_log_analyzer.py --log app.log --out alert_summary.json
 - ⑤ 2-line productivity note
 
 ---
-
-## 📧 Submission
-
-**Email subject:** `AIOps Log Intelligence — [Your Name] — ThinkPalm AI Lab`  
-**To:** aneesh.ks@thinkpalm.com
-
----
-
-*Built with Claude (Anthropic) · ThinkPalm AI/ML Track · May 2024*
