@@ -1,0 +1,15 @@
+2024-05-21 08:02:11 INFO  Application started successfully on port 8080
+2024-05-21 08:05:33 ERROR java.lang.OutOfMemoryError: Java heap space at com.app.DataProcessor.process(DataProcessor.java:142)
+2024-05-21 08:07:14 WARN  High memory usage detected: 91% of heap allocated
+2024-05-21 08:09:55 ERROR ConnectionTimeoutException: Failed to connect to database db-prod-01 after 30s (attempt 3/3)
+2024-05-21 08:11:02 INFO  Retry handler triggered for DB connection pool
+2024-05-21 08:13:45 ERROR NullPointerException in UserAuthService.validateToken() - token was null
+2024-05-21 08:15:19 ERROR SSL_ERROR_RX_RECORD_TOO_LONG: TLS handshake failed with upstream api.payments.io:443
+2024-05-21 08:17:30 WARN  Disk usage at 87% on /var/data — threshold is 85%
+2024-05-21 08:20:01 ERROR KafkaConsumerException: Lag on topic=order-events partition=3 is 142,000 messages
+2024-05-21 08:22:44 ERROR HTTP 503 Service Unavailable returned from inventory-service after 5 retries
+2024-05-21 08:24:10 INFO  Health check passed for cache layer
+2024-05-21 08:26:38 ERROR PermissionDenied: User 'svc-etl' lacks SELECT on schema analytics — query aborted
+2024-05-21 08:28:55 ERROR segmentation fault (core dumped) in native lib libopencv.so at address 0x00007f3a
+2024-05-21 08:30:12 WARN  Rate limit approaching: 4800/5000 req/min on external weather API
+2024-05-21 08:32:47 ERROR CertificateExpiredException: TLS cert for *.internal.corp expired 2024-05-19

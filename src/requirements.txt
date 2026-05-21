@@ -1,0 +1,16 @@
+# AIOps Log Intelligence — Python dependencies
+# All stdlib except reportlab (PDF generation only)
+
+# LLM API (used in src/aiops_log_analyzer.py)
+# The script uses urllib (stdlib) — no anthropic SDK needed.
+# Just set: export ANTHROPIC_API_KEY=sk-ant-...
+
+# PDF report generation
+reportlab>=4.0.0
+
+# Optional: richer terminal tables
+# rich>=13.0.0
+
+# Optional: Jupyter notebook support
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
