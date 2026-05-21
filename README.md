@@ -1,9 +1,9 @@
 # 🤖 AIOps Log Intelligence — ReAct Agent Pipeline
 
-> **Name:** [Your Name]  
+> **Name:** sachin sooraj  
 > **Track:** AI/ML Engineering  
 > **Lab Name:** AIOps Log Intelligence  
-> **Email:** [your.email@thinkpalm.com]
+> **Email:** [sachin.s@thinkpalm.com]
 
 ---
 
@@ -50,8 +50,8 @@ thinkpalm-agentai-[YourName]-AIOpsLogIntelligence/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/[YourGitHub]/thinkpalm-agentai-[YourName]-AIOpsLogIntelligence.git
-cd thinkpalm-agentai-[YourName]-AIOpsLogIntelligence
+git clone https://github.com/sachinsooraj/thinkpalm-agentai-sachinsooraj-AI-Assisted-Log-Analysis-Alert-Triage.git
+cd thinkpalm-agentai-sachinsooraj-AI-Assisted-Log-Analysis-Alert-Triage
 pip install -r requirements.txt
 ```
 
